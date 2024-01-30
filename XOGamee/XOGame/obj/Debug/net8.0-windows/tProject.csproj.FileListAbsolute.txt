@@ -1,0 +1,277 @@
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\tProject.exe
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\tProject.deps.json
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\tProject.runtimeconfig.json
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\tProject.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\tProject.pdb
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\tProject.Form1.resources
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\tProject.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\tProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\tProject.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\tProject.AssemblyInfo.cs
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\tProject.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\tProject.dll
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\refint\tProject.dll
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\tProject.pdb
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\tProject.genruntimeconfig.cache
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\ref\tProject.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Hp\source\repos\tProject\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\tProject.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\tProject.csproj.CopyComplete
+C:\Users\Hp\source\repos\tProject\obj\Debug\net8.0-windows\tProject.Form2.resources
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\tProject.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\tProject.Form1.resources
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\tProject.Form2.resources
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\tProject.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\tProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\tProject.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\tProject.AssemblyInfo.cs
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\tProject.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\tProject.dll
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\refint\tProject.dll
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\tProject.pdb
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\tProject.exe
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\tProject.deps.json
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\tProject.runtimeconfig.json
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\tProject.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\tProject.pdb
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Hp\Desktop\tProject\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\tProject.csproj.CopyComplete
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\tProject.genruntimeconfig.cache
+C:\Users\Hp\Desktop\tProject\obj\Debug\net8.0-windows\ref\tProject.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\tProject.exe
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\tProject.deps.json
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\tProject.runtimeconfig.json
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\tProject.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\tProject.pdb
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\tProject.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\tProject.Form1.resources
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\tProject.Form2.resources
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\tProject.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\tProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\tProject.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\tProject.AssemblyInfo.cs
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\tProject.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\tProject.csproj.CopyComplete
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\tProject.dll
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\refint\tProject.dll
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\tProject.pdb
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\tProject.genruntimeconfig.cache
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\ref\tProject.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Business.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Data Access.dll
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Business.pdb
+C:\Users\Hp\source\repos\tProject - Copy\bin\Debug\net8.0-windows\Data Access.pdb
+C:\Users\Hp\source\repos\tProject - Copy\obj\Debug\net8.0-windows\tProject.Score.resources
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\tProject.exe
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\tProject.deps.json
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\tProject.runtimeconfig.json
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\tProject.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\tProject.pdb
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Business.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Data Access.dll
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Business.pdb
+C:\Users\Hp\source\repos\lastTry\bin\Debug\net8.0-windows\Data Access.pdb
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.Form1.resources
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.Form2.resources
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.Score.resources
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.AssemblyInfo.cs
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.csproj.CopyComplete
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.dll
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\refint\tProject.dll
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.pdb
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.genruntimeconfig.cache
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\ref\tProject.dll
+C:\Users\Hp\source\repos\lastTry\obj\Debug\net8.0-windows\tProject.Properties.Resources.resources
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\tProject.exe
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\tProject.deps.json
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\tProject.runtimeconfig.json
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\tProject.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\tProject.pdb
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Business.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Data Access.dll
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Business.pdb
+C:\Users\Hp\source\repos\XOGame\bin\Debug\net8.0-windows\Data Access.pdb
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.Form1.resources
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.Form2.resources
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.Properties.Resources.resources
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.Score.resources
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.AssemblyInfo.cs
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.csproj.CopyComplete
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.dll
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\refint\tProject.dll
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.pdb
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\tProject.genruntimeconfig.cache
+C:\Users\Hp\source\repos\XOGame\obj\Debug\net8.0-windows\ref\tProject.dll
